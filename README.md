@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 Kingston House Sales | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of average sales, situated area, distribution of room etc. | [Dashboard](https://public.tableau.com/app/profile/iman.f1527/viz/KINGSTONHouseSales/KingCountyHouseSales) |
+| 🦄 Kingston House Sales | Cleansed and transformed data on the Housing Market in Kingston, Washington using Python. Visualised key insights using Tableau, including the timeline of average sales, situated area, distribution of room etc. | [Dashboard](https://public.tableau.com/app/profile/iman.f1527/viz/KINGSTONHouseSales/KingCountyHouseSales) |
 
 
 ***
