@@ -38,9 +38,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ***
 
 # Python
-| Project | Project Description | Notebook Link |
-|---|---|---|
-| Real-Time Sentiment Analysis | Sentiment Analysis with BERT Neural Network and Python | [Notebook](RealTimeSentimentAnalysis.ipynb) |
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 👩🏻‍💻 [eal-Time Sentiment Analysis](RealTimeSentimentAnalysis.ipynb) | Time-series analysis | In this time-series analysis, Sentiment Analysis with BERT Neural Network and Python | pandas, numpy, seaborn | 
+
 
 
 ***
