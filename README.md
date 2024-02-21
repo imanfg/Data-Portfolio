@@ -29,6 +29,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # SQL
 
+| Project | Area of Analysis | Project Description |
+|---|---|---|
+| [🦠 Covid-19 Global Impact]() | Data cleaning, data analysis | Analysis and Visualization of Covid-19 cases and the impact globally from 2020 to 2021 using SQL and Tableau |
+
+ 
 
 ***
 
