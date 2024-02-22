@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [Real-Time Sentiment Analysis]([RealTimeSentimentAnalysis.ipynb](https://github.com/imanfg/BERT-Sentiment-Analysis/blob/main/RealTimeSentimentAnalysis.ipynb)) | Time-series analysis | In this time-series analysis, Sentiment Analysis with BERT Neural Network and Python | pandas, numpy, seaborn | 
+| 👩🏻‍💻 [Real-Time Sentiment Analysis](https://github.com/imanfg/BERT-Sentiment-Analysis/blob/main/RealTimeSentimentAnalysis.ipynb)) | Time-series analysis | In this time-series analysis, Sentiment Analysis with BERT Neural Network and Python | pandas, numpy, seaborn | 
 
 
 
